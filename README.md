@@ -32,7 +32,7 @@ You can install Dart from: https://dart.dev/get-dart
   Run the game using:
    dart game.dart
 
-  How to Play
+  # How to Play
 	•	The game board contains numbers from 1 to 9 representing the available positions.
 	•	Players take turns entering the number where they want to place their symbol (X or O).
 	•	The first player to line up 3 of their marks horizontally, vertically, or diagonally wins.
