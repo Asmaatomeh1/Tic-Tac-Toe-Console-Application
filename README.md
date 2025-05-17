@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Console Application
+
 # 🎮 Tic-Tac-Toe Console Application
 
 This is a simple **console-based Tic-Tac-Toe game** built with Dart. Two players (X and O) take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
@@ -44,11 +44,11 @@ You can install Dart from: https://dart.dev/get-dart
 
 Board:
 
- 1 | 2 | 3
----+---+---
- 4 | 5 | 6
----+---+---
- 7 | 8 | 9
+    1 | 2 | 3
+   ---+---+---
+    4 | 5 | 6
+   ---+---+---
+    7 | 8 | 9
 
 Player X's turn.
 Enter a Number ( 1 - 9 ):
