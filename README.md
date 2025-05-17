@@ -44,11 +44,11 @@ You can install Dart from: https://dart.dev/get-dart
 
 Board:
 
-    1 | 2 | 3
+     1 | 2 | 3
     ---+---+---
-    4 | 5 | 6
+     4 | 5 | 6
     ---+---+---
-    7 | 8 | 9
+     7 | 8 | 9
 
 Player X's turn.
 Enter a Number ( 1 - 9 ):
