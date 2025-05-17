@@ -29,8 +29,8 @@ You can install Dart from: https://dart.dev/get-dart
    ```bash
    cd path/to/your/folder
 
-#Run the game using:
-#dart game.dart
+  Run the game using:
+   dart game.dart
 
   How to Play
 	•	The game board contains numbers from 1 to 9 representing the available positions.
@@ -45,9 +45,9 @@ You can install Dart from: https://dart.dev/get-dart
 Board:
 
     1 | 2 | 3
-   ---+---+---
+    ---+---+---
     4 | 5 | 6
-   ---+---+---
+    ---+---+---
     7 | 8 | 9
 
 Player X's turn.
